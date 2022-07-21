@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeamFollowApp</string>
+    <string name="add_menu">Add Club</string>
+    <string-array name="ligs">
+        <item>""</item>
+        <item>Türkiye Süper Lig</item>
+        <item>La Liga</item>
+        <item>Premier League</item>
+        <item>Bundesliga</item>
+        <item>Ligue 1</item>
+        <item>Serie A</item>
+    </string-array>
+</resources>
